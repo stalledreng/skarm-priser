@@ -1,0 +1,16 @@
+{
+  "monitors": {
+    "MSI MPG 271QRX QD-OLED 27.0\" 2560x1440 360Hz": {
+      "last_price": 6990,
+      "source": "NetOnNet",
+      "url": "https://www.netonnet.se/art/gaming/gamingskarm/gamingskarm-27-30-tum/msi-mpg-271qrx-qd-oled/1032957.18233/",
+      "updated": "2026-08-30T15:40:03Z"
+    },
+    "Asus ROG Swift OLED PG27AQDP 26.5\" 2560x1440 480Hz": {
+      "last_price": 11590,
+      "source": "NetOnNet",
+      "url": "https://www.netonnet.se/art/fyndvaror/dator-surfplatta/asus-27-pg27aqdp/x1052184.4802/",
+      "updated": "2026-08-30T15:40:03Z"
+    }
+  }
+}
