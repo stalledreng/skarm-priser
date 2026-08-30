@@ -1,10 +1,10 @@
 {
   "monitors": {
     "Dell Alienware AW2725DF 26.7\" 2560x1440 360Hz": {
-      "last_price": 7882,
-      "source": "PCPartPicker",
-      "url": "https://se.pcpartpicker.com/product/3NFmP6/dell-alienware-aw2725df-267-2560-x-1440-360-hz-monitor-aw2725df",
-      "updated": "2026-08-30T18:00:00Z"
+      "last_price": 6990,
+      "source": "Prisjakt",
+      "url": "https://www.prisjakt.nu/produkt.php?p=13087295",
+      "updated": "2026-08-30T19:00:00Z"
     },
     "MSI MPG 271QRX QD-OLED 27.0\" 2560x1440 360Hz": {
       "last_price": 6990,
@@ -19,28 +19,28 @@
       "updated": "2026-08-30T18:00:00Z"
     },
     "Asus ROG Swift OLED PG27AQDP 26.5\" 2560x1440 480Hz": {
-      "last_price": 10201,
-      "source": "PCPartPicker",
-      "url": "https://se.pcpartpicker.com/search/?q=Asus+ROG+Swift+PG27AQDP",
-      "updated": "2026-08-30T18:00:00Z"
+      "last_price": 8990,
+      "source": "Prisjakt",
+      "url": "https://www.prisjakt.se/search?query=Asus+ROG+Swift+PG27AQDP",
+      "updated": "2026-08-30T19:00:00Z"
     },
     "Asus ROG Strix OLED XG27ACDNG 26.5\" 2560x1440 360Hz": {
       "last_price": 7496,
-      "source": "PCPartPicker",
-      "url": "https://se.pcpartpicker.com/search/?q=Asus+ROG+Strix+XG27ACDNG",
-      "updated": "2026-08-30T18:00:00Z"
+      "source": "Prisjakt",
+      "url": "https://www.prisjakt.se/search?query=Asus+ROG+Strix+XG27ACDNG",
+      "updated": "2026-08-30T19:00:00Z"
     },
     "LG UltraGear OLED 27GX790A-B 27.0\" 2560x1440 480Hz": {
-      "last_price": 8954,
-      "source": "PCPartPicker",
-      "url": "https://se.pcpartpicker.com/search/?q=LG+UltraGear+27GX790A",
-      "updated": "2026-08-30T18:00:00Z"
+      "last_price": 8449,
+      "source": "Prisjakt",
+      "url": "https://www.prisjakt.se/search?query=LG+UltraGear+27GX790A",
+      "updated": "2026-08-30T19:00:00Z"
     },
     "Samsung Odyssey OLED G60SF 27.0\" 2560x1440 500Hz": {
-      "last_price": 7990,
-      "source": "PCPartPicker",
-      "url": "https://se.pcpartpicker.com/search/?q=Samsung+Odyssey+G60SF",
-      "updated": "2026-08-30T18:00:00Z"
+      "last_price": 7642,
+      "source": "Prisjakt",
+      "url": "https://www.prisjakt.se/search?query=Samsung+Odyssey+G60SF",
+      "updated": "2026-08-30T19:00:00Z"
     },
     "BenQ EX271QZ 26.5\" 2560x1440 500Hz": {
       "last_price": 9873.64,
