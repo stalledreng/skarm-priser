@@ -1,0 +1,8 @@
+## Interface: 11507, 30403, 40402, 110200
+## Title: ForeverInvite
+## Notes: Bjud in spelare automatiskt via whisper-nyckelord, eller från en sparad lista.
+## Author: stalledreng
+## Version: 1.0.0
+## SavedVariables: ForeverInviteDB
+
+ForeverInvite.lua
